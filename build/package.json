@@ -1,0 +1,20 @@
+{
+  "name": "@babyshop/schemats",
+  "version": "1.0.3",
+  "description": "generate ts files from postgres schema",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "pg-promise": "^10.4.4",
+    "typescript-formatter": "^7.0.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-node-externals": "^1.7.2",
+    "yargs": "^8.0.1"
+  }  
+}
